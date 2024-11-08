@@ -53,3 +53,7 @@ npm install
 # Deploy the smart contract to the Ganache network using Truffle:
 ```bash
 truffle migrate --network development
+
+# After setting up the contract, navigate to the client folder and run the React app:
+cd client
+npm start
